@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"CodeGPT.Autocomplete.provider": "CodeGPT Plus - Plus",
+		"CodeGPT.Autocomplete.enabled": true,
+		"CodeGPT.query.language": "Korean",
+		"CodeGPT.apiKey": "CodeGPT Plus Beta"
+	}
+}

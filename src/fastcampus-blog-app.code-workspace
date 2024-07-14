@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "fastcampus-blog-app",
+			"path": "../fastcampus-blog-app"
+		}
+	],
+	"settings": {}
+}
